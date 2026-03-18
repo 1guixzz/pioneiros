@@ -1,0 +1,46 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    color: black;
+}
+
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: white;
+}
+
+.container{
+    max-width: 1000px;
+    margin: auto;
+    padding: 2rem;
+    text-align: center;
+}
+
+.titulo1{
+    font-size: 2.5rem;
+    margin-bottom: 2rem;
+}
+
+.titulo2{
+    font-size: 2rem;
+    margin: 2rem 0 1rem;
+}
+
+.bloco{
+    margin-bottom: 3rem;
+}
+
+.imagem{
+    width: 100%;
+    max-width: 600px;
+    border-radius: 15px;
+    margin: 1rem auto;
+    display: block;
+}
+
+.texto{
+    font-size: 18px;
+    line-height: 1.6;
+    margin: 1rem 0;
+}
